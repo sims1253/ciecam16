@@ -1,0 +1,19 @@
+Package: ciecam16
+Type: Package
+Title: Implementation of CIECAM16 Color Appearance Model
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Maximilian", "Scholz",
+      email = "dev.scholz@mailbox.org",
+      role = c("aut", "cre")
+    )
+  )
+Description: Provides functions for color appearance modeling using the CIECAM16 
+    specification.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    S7
+RoxygenNote: 7.3.2
